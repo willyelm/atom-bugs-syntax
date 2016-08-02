@@ -9,7 +9,7 @@
     "purple",
     "syntax"
   ],
-  "repository": "https://github.com/willyelm/atom-wine-syntax",
+  "repository": "https://github.com/willyelm/atom-bugs-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"
